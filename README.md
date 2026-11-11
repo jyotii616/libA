@@ -1,4 +1,2 @@
-# libA
-
 
 SECOND VERSION 
